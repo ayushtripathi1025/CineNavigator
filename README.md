@@ -2,7 +2,7 @@
 Welcome to the Content-Based Movie Recommendation System repository. This project uses content-based filtering to suggest movies based on attributes like genres, directors, actors, and plot summaries. Trained on a dataset of 5000+ movies, it generates personalized recommendations for users.
 
 # Movie Recommender System
-This project implements a movie recommender system using collaborative filtering and natural language processing techniques. The system suggests movies similar to the ones users like, based on movie plots, genres, and casts.
+This project implements a movie recommender system using content-based filtering and natural language processing techniques. The system suggests movies similar to the ones users like, based on movie plots, genres, and casts.
 
 # Libraries Used:
 -Pandas: Used for data manipulation and preprocessing.
