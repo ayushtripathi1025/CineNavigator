@@ -4,7 +4,7 @@ Welcome to the Content-Based Movie Recommendation System repository. This projec
 # Movie Recommender System
 This project implements a movie recommender system using content-based filtering and natural language processing techniques. The system suggests movies similar to the ones users like, based on movie plots, genres, and casts.
 
-# Libraries Used:
+### Libraries Used:
 -Pandas: Used for data manipulation and preprocessing.
 -NumPy: Essential for numerical computations and data arrays.
 -scikit-learn: Provides machine learning algorithms and utilities for model building and evaluation.
